@@ -1,6 +1,6 @@
-let xCarros = [600,600,600]
-let yCarros = [40, 96, 150]
-let velocidadeCarros = [2, 2.5, 3.2]
+let xCarros = [600,600,600,600,600,600]
+let yCarros = [40, 96, 150, 210, 265, 315]
+let velocidadeCarros = [2, 2.5, 3.2, 3, 2.2, 2]
 let carroComprimento = 50;
 let carroAltura = 40;
 
